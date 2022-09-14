@@ -1,7 +1,7 @@
 #include "main.h"                                                                                                                           
 /**                                                                                                                                         
- * _isalpha - fucntion to check for a sign of a number                                                                    
- * @c: is the int that will use for the argument of the function                                                                            
+ * print_sign - fucntion to check for a sign of a number                                                                    
+ * @n: is the int that will use for the argument of the function                                                                            
  * Return: 0
  */
 int print_sign(int n)
